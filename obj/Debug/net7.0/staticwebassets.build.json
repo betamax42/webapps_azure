@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kFwq10733wnxciaydmxNDRK6cIAACbBDO+pY1dGUadU=",
+  "Source": "webapps_azure",
+  "BasePath": "_content/webapps_azure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
